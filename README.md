@@ -1,4 +1,4 @@
-# Hi, I'm Soham Nachankar 👋
+# Hi, I'm Soham Nachankar 
 
 🎓 Master of Business IT @ RMIT University | Graduating December 2026
 📍 Melbourne, Australia
@@ -12,11 +12,11 @@ I'm a final-semester MBIT student at RMIT with a passion for transforming raw da
 ---
 
 ## 🛠️ Tools & Skills
-- **Visualisation:** Tableau, Power BI
+- **Visualisation:** Tableau and Power BI
 - **Database:** SQL
-- **Programming:** Python
+- **Programming:** Python, R, Java, C and C++
 - **Spreadsheets:** Excel
-- **Cloud:** Microsoft Azure
+- **Cloud:** Microsoft Azure and AWS
 
 ---
 
