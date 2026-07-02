@@ -1,4 +1,4 @@
-# Hi, I'm Soham Nachankar 👋
+# Hi, I'm Soham Nachankar 
 
 🎓 Master of Business IT @ RMIT University | Graduating December 2026
 📍 Melbourne, Australia
