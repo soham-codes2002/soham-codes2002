@@ -1,4 +1,4 @@
-# Hi, I'm Soham Nachankar 
+# Hi, I'm Soham Nachankar 👋
 
 🎓 Master of Business IT @ RMIT University | Graduating December 2026
 📍 Melbourne, Australia
@@ -10,6 +10,7 @@
 I'm a final-semester MBIT student at RMIT with a passion for transforming raw data into meaningful business insights. I specialise in building interactive dashboards and solving real-world business problems through analytics.
 
 ---
+
 
 ## 🛠️ Tools & Skills
 - **Visualisation:** Tableau and Power BI
@@ -36,9 +37,9 @@ A BI dashboard identifying EV charging infrastructure gaps across 63 major NSW s
 - Tools: Tableau, Geospatial Analysis (Haversine formula), CSV
 - [View Project](https://github.com/soham-codes2002/greencharge-ev-service-gap-analysis)
 
-
 ---
 
 ## 📫 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/soham-nachankar-52a04222b)
 - 📧 [nachankarsoham@gmail.com](mailto:nachankarsoham@gmail.com)
+- 📞 +61 467 378 756
