@@ -28,11 +28,14 @@ Tableau dashboard analysing hotel performance across 6 European cities using 155
 - Tools: Tableau, SQL
 - [View Project](https://github.com/soham-codes2002/TravelSphere-Hotel-Analysis) | [Live Dashboard](https://public.tableau.com/app/profile/soham.nachankar/viz/TravelSphere_hotels/Dashboard3)
 
-### 🛒 Retail Sales Analysis
-End-to-end retail sales analysis using SQL and Tableau to generate business insights.
-- Sales trends, performance metrics, business insights
-- Tools: Tableau, SQL
-- [View Project](https://github.com/soham-codes2002/Retail-Sales-Analysis-SQL-Tableau)
+### ⚡ GreenCharge NSW — EV Charging Service Gap Analysis
+A BI dashboard identifying EV charging infrastructure gaps across 63 major NSW shopping centres, built to guide network expansion and partnership outreach strategy.
+- 57 of 63 shopping centres (90%) have zero EV chargers within 2km
+- Average distance to nearest charger: 11.19km | Largest gap: 38.25km
+- Priority scoring model combining centre size and distance to surface top expansion targets
+- Tools: Tableau, Geospatial Analysis (Haversine formula), CSV
+- [View Project](https://github.com/soham-codes2002/greencharge-ev-service-gap-analysis)
+
 
 ---
 
